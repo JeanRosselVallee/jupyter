@@ -5,4 +5,5 @@ dependencies:
  - python
  - pandas
  - matplotlib
+ - scipy
 
